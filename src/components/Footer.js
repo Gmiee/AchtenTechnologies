@@ -96,7 +96,7 @@ function Footer() {
                     <a
                       target="_blank"
                       rel="noreferrer"
-                      href="https://github.com/darkleas"
+                      href="/"
                     >
                       {" "}
                       Github
@@ -106,7 +106,7 @@ function Footer() {
                     <a
                       target="_blank"
                       rel="noreferrer"
-                      href="https://twitter.com/burhankocadag0"
+                      href="/"
                     >
                       {" "}
                       Twitter
@@ -116,7 +116,7 @@ function Footer() {
                     <a
                       target="_blank"
                       rel="noreferrer"
-                      href="https://www.linkedin.com/in/burhan-kocada%C4%9F-49a3331a5/"
+                      href="/"
                     >
                       {" "}
                       Linkedin
