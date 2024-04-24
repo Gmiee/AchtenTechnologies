@@ -1,7 +1,7 @@
 {
-  "name": "companywebsite",
+  "name": "Achten-Technologies Made by Jenish khemnani",
+  "homepage": "https://jenish.live/",
   "version": "0.1.0",
-  "homepage": "https://darkleas.github.io/company-website-reactjs",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
