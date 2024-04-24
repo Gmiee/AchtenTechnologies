@@ -1,4 +1,5 @@
 import { Link } from "react-scroll";
+import logo from "../assets/logo.jpg"
 
 function Navbar() {
   document.addEventListener("scroll", function (e) {
@@ -41,7 +42,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              DarkLeas
+              <img src={logo} alt="Company's Logo" className="Logo" />
             </Link>
           </h1>
           <ul className="bar">
